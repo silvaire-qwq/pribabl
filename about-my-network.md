@@ -1,12 +1,3 @@
----
-title: 互联网的回忆——入圈一周年
-published: 2026-05-27
-description: 依旧是一些极度负面内容（
-tags: [Life, Negative, Network]
-category: Life
-negative: true
----
-
 似是 Miracle 群（开发）一周年了。之前叫 Lowokia。
 其实 Miracle 是之前 9.23 建立的。本来就是一个普通的主页，不过觉得好看，就换来了。不知从何提起。
 
