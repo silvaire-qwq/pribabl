@@ -1,2 +1,0 @@
-# pribabl
-NOOOOOOOTHING
